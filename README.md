@@ -23,7 +23,7 @@ Value — целое число, по модулю не превосходяще
 **Ввод**
 7
 10
-push_front -855
+push_front -855<br>
 push_front 0
 pop_back
 pop_back

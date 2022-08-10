@@ -21,20 +21,20 @@ Value — целое число, по модулю не превосходяще
 
 ### Пример
 **Ввод**
-7
-10
+7<br>
+10<br>
 push_front -855<br>
-push_front 0
-pop_back
-pop_back
-push_back 844
-pop_back
-push_back 823
+push_front 0<br>
+pop_back<br>
+pop_back<br>
+push_back 844<br>
+pop_back<br>
+push_back 823<br>
 
 **Вывод**
--855
-0
-844
+-855<br>
+0<br>
+844<br>
 
 ## Задача 2. Эффективная быстрая сортировка (2.py).
 Тимофей решил организовать соревнование по спортивному программированию, чтобы найти талантливых стажёров. Задачи подобраны, участники зарегистрированы, тесты написаны. Осталось придумать, как в конце соревнования будет определяться победитель.
@@ -73,16 +73,16 @@ Fi и Pi — целые числа, лежащие в диапазоне от 0 
 
 ### Пример
 **Ввод**
-5
-alla 0 0
-gena 0 0
-gosha 0 0
-rita 0 0
-timofey 0 0
+5<br>
+alla 0 0<br>
+gena 0 0<br>
+gosha 0 0<br>
+rita 0 0<br>
+timofey 0 0<br>
 
 **Вывод**
-alla
-gena
-gosha
-rita
-timofey
+alla<br>
+gena<br>
+gosha<br>
+rita<br>
+timofey<br>
